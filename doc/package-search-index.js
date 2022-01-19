@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.javabrains.springbootstarter.course"},{"l":"io.javabrains.springbootstarter.hello"},{"l":"io.javabrains.springbootstarter.topic"}];updateSearchResults();
